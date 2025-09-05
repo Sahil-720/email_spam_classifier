@@ -9,8 +9,8 @@ This project implements Machine Learning and deep learning based Email Spam Clas
 
 🔹 **Trained Multiple ML Models**
 
-**Logistic Regression**
-**Naïve Bayes**
+**Logistic Regression**.
+**Naïve Bayes**.
 **Recurrent Neural Network (RNN)**
 
 🔹 **Evaluation Metrics**
