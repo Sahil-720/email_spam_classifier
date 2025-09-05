@@ -4,13 +4,17 @@ This project implements Machine Learning and deep learning based Email Spam Clas
 🔹 Features
 
 **Dataset** (Prepocessed public corpus trec-2007 dataset) with 75k+ emails labeled as spam or ham.
+
 **Applied text cleaning & preprocessing** (removing stopwords, punctuation, spelling correction, email headers etc were done to clean the dataset).
+
 **Converted text into numerical features using**:   CountVectorizer and TF-IDF Vectorizer
 
 🔹 **Trained Multiple ML Models**
 
 **Logistic Regression**.
+
 **Naïve Bayes**.
+
 **Recurrent Neural Network (RNN)**
 
 🔹 **Evaluation Metrics**
