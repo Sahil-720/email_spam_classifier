@@ -1,5 +1,6 @@
 # email_spam_classifier
 This project implements Machine Learning and deep learning based Email Spam Classifier that automatically distinguishes between spam  emails and ham (legitimate) emails.
+link to the dataset used- https://www.kaggle.com/imdeepmind/preprocessed-trec-2007-public-corpus-dataset
 
 🔹 Features
 
